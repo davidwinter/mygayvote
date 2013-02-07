@@ -1,0 +1,11 @@
+table {
+	border-bottom: 3px solid #aaa;
+}
+
+thead th {
+	border-bottom: 3px solid #aaa;
+}
+
+tbody.averages td, tbody.averages th {
+	border-top: 3px solid #aaa;
+}

@@ -1,0 +1,117 @@
+html, body {
+	margin: 0;
+}
+
+body {
+	padding-top: 50px;
+}
+
+a {
+	text-decoration: none;
+	color: #f91d94;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+table {
+	font-size: 1.4em;
+	width: 100%;
+	border-collapse: collapse;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+h1 {
+	background: url('cross.png') left center no-repeat;
+	height: 100px;
+	margin-top: 0;
+	padding-left: 100px;
+	font-size: 3em;
+	text-align: left;
+	line-height: 100px;
+}
+
+p {
+	font-size: 1.6em;
+}
+
+tbody {
+	border-top: 3px solid #aaa;
+	border-bottom: 3px solid #aaa;
+}
+
+th, td {
+	padding: 10px;
+	vertical-align: top;
+}
+
+th {
+	width: 40%;
+}
+
+tbody td {
+	border-top: 1px solid #ccc;
+	padding: 20px 10px;
+}
+
+.party {
+	width: 20%;
+	text-align: center;
+}
+
+.issue {
+	font-family: Georgia, Times, Serif;
+	font-style: italic;
+}
+
+.issue h3 {
+	font-weight: normal;
+	font-size: 1.7em;
+	margin-top: 0;
+}
+
+.issue a {
+	text-decoration: none;
+	color: #ccc;
+}
+
+.issue a:hover {
+	color: #444;
+}
+
+.vote {
+	font-size: 1.3em;
+	text-align: center;
+}
+
+.vote span {
+	color: #aaa;
+}
+
+p.note {
+	color: #999;
+	text-align: right;
+	font-size: 0.9em;
+}
+
+.desc p {
+	font-size: 0.8em;
+	font-style: normal;
+	color: #444;
+}
+
+tbody.averages th {
+	text-align: right;
+	vertical-align: middle;
+}
+
+.footer p {
+	margin-bottom: 50px;
+	text-align: center;
+}
+
+iframe {
+	float: right;
+}
