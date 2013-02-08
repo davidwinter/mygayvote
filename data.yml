@@ -1,3 +1,17 @@
+-
+  title: Equal marriage
+  description: Allow for same sex couples to get married; Marriage (Same Sex Couples) bill
+  link: http://www.publicwhip.org.uk/division.php?date=2013-02-05&amp;number=151
+  votes:
+    conservatives:
+      for: 126
+      against: 135
+    labour:
+      for: 218
+      against: 22
+    liberaldemocrats:
+      for: 44
+      against: 4
 - 
   title: Equalise age of consent
   description: Bringing age of consent for gays down to 16 in line with straight couples.
