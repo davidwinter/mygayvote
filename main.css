@@ -112,6 +112,6 @@ tbody.averages th {
 	text-align: center;
 }
 
-.twitter-share-button {
+.twitter-share-button, #abTwitterBadge_0 {
 	float: right;
 }
