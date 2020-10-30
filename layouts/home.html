@@ -111,6 +111,11 @@
 			<p>By <a href="http://twitter.com/davidwinter">@davidwinter</a></p>
 		</div>
 
-	</div>
+    </div>
+
+    {{ if not .Site.IsServer }}
+    <script data-goatcounter="https://mygayvote.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+    {{ end }}
 </body>
 </html>
